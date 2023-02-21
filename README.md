@@ -1,2 +1,3 @@
 # VADSTI_Spring-2023
 VADSTI Spring 2023
+The Howard University Research Centers in Minority Institutions, the AIM-AHEAD program, and the Public Health Informatics Technology for DC (PHIT4DC) program is pleased to announce VADSTI 2.0, Spring 2023 Training Series to the Howard University community of researchers and beyond.  The goal is to enhance data science capability and application by providing training in the foundations of programming and critical data analytic skills for planning and conducting research involving big data pertinent to minority health and health equities. The Spring Training Series is project-based and will cover topics including Foundations of Data Science, Python, Data Preparation, Exploration and Visualization, and Cloud Computing, among others.
