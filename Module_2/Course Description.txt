@@ -1,4 +1,4 @@
-Module 4:  Data Exploration and Visualization  
+Module 3:  Data Exploration and Visualization  
 Instructor: Ebelechukwu Nwafor, PhD 
 Description: 
 This module provides recipes for exploratory data analysis and data visualization which are critical steps in any data science project. The goal of this module is to learn how to visualize and perform initial investigations of the data so as to discover patterns, spot anomalies, and check assumptions with the help of summary statistics and graphical representations. We will using python to explore, filter, and manipulate datasets; identify data anomalies and missingness; learn how to impute missing data; identify highly correlated variables.
